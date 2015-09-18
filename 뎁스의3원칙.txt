@@ -1,0 +1,3 @@
+147(absolute가 들어가는편이다)
+div위치(div>ul>li 순서를 유의)
+list한테 플롯준다.(float)
